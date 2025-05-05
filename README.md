@@ -5,6 +5,7 @@ Shuyang Ma - Lead Artist, Blender, also curation of other resources
 Tabshir Khandaker - Lead Game Play developer
 Beau Smith - Lead Programmer, UE C++ and Blueprint
 
+DOWNLOAD LINK: https://drive.google.com/file/d/1S2tHG1cCC7Ps3dc3fNO-O7fWVtvluT2-/view?usp=share_link 
 
 Name: Deep End
 
